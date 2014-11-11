@@ -17,4 +17,4 @@ No options are implemented, it will print out the hexdump in canonical form.
 Download
 ========
 
-You can download the binary file here.
+You can download the binary file [here](https://github.com/SenpaiSilver/win32CanonHexdump/raw/master/bin/win32CanonicalHexdump.exe).
