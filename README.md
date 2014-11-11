@@ -18,3 +18,10 @@ Download
 ========
 
 You can download the binary file [here](https://github.com/SenpaiSilver/win32CanonHexdump/raw/master/bin/win32CanonicalHexdump.exe).
+
+To Do
+=====
+
+- [ ] Implement options for the output;
+- [ ] Read on STDIN;
+- [ ] Implement colors.
