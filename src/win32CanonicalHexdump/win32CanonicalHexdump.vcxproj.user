@@ -3,7 +3,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LocalDebuggerCommand>$(TargetPath)</LocalDebuggerCommand>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-    <LocalDebuggerCommandArguments>..\win32CanonicalHexdump\main.cpp</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"C:\Users\senpaisilver\Documents\Visual Studio 2013\Projects\win32CanonHexdump\bin\win32CanonicalHexdump.exe"</LocalDebuggerCommandArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LocalDebuggerCommand>$(TargetPath)</LocalDebuggerCommand>

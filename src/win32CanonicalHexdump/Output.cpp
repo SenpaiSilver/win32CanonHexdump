@@ -9,7 +9,7 @@ Output::~Output()
 {
 }
 
-void Output::PrintBytes(const unsigned int addr, const DWORD nb, const char* buffer)
+void Output::PrintBytes(const unsigned int addr, const DWORD nb, const unsigned char* buffer)
 {
 	_tprintf(TEXT("%08x  "), addr - nb);
 	for (unsigned int i = 0; i < 8; ++i)

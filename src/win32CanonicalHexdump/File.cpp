@@ -17,7 +17,7 @@ File::~File()
 		CloseHandle(this->_file);
 }
 
-char* File::GetBytes(bool read)
+unsigned char* File::GetBytes(bool read)
 {
 	if (read)
 	{

@@ -7,7 +7,7 @@
 int _tmain(int ac, _TCHAR* av[])
 {
 	File* file;
-	char* buffer;
+	unsigned char* buffer;
 
 	if (ac < 2)
 		return (1);
